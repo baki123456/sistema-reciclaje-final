@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="cadena-Web.config Connection String" description="cadena Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=SQL8003.site4now.net;Initial Catalog=db_a8fdb8_tecamigable1;User Id=db_a8fdb8_tecamigable1_admin;Password=warjamer40000&#xD;&#xA;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="E:\\asp\.net\\CursoMVC\\CapaPresentacionTienda\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='cadena']/@connectionString" />
+  </parameter>
+</parameters>
